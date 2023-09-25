@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    color: 0;
+    margin: 0;
+}
+
+.top-container{
+    background-color: #c7dbd7;
+    position: relative;
+    padding: 100px;
+}
+.top-cloud{
+    position: absolute;
+    right: 111px;
+    top: 40px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto;
+    width: 100%;
+    font-size: 562%;
+    color: blueviolet;
+}
+.Pgram{
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    color: blueviolet;
+    font-size: 222%
+}
+.bottom-cloud{
+    position: absolute;
+    left: 111px;
+    bottom: 20px;
+}
+
+.middle-container{
+    margin: 100px;
+}
+
+.profile{
+    width: 40%;
+    margin: auto;
+}
+
+h2, p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.1rem;
+}
+
+
+
+
